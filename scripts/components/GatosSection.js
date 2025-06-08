@@ -2,7 +2,7 @@ function GatosSection({ addToCart }) {
     const [products, setProducts] = useState([]);
     
     useEffect(() => {
-        fetch('../data/gatos.json')
+        fetch('./data/gatos.json')
             .then(response => response.json())
             .then(data => setProducts(data))
             .catch(error => console.error('Error loading products:', error));

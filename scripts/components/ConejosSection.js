@@ -2,7 +2,7 @@ function ConejosSection({ addToCart }) {
     const [products, setProducts] = useState([]);
     
     useEffect(() => {
-        fetch('/data/conejos.json')
+        fetch('./data/conejos.json')
             .then(response => response.json())
             .then(data => setProducts(data))
             .catch(error => console.error('Error loading products:', error));

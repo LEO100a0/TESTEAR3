@@ -3,7 +3,7 @@ function NovedadesSection({ addToCart }) {
     
     useEffect(() => {
         // Cargar datos desde el JSON
-        fetch('../data/novedades.json')
+        fetch('./data/novedades.json')
             .then(response => response.json())
             .then(data => setProducts(data))
             .catch(error => console.error('Error loading products:', error));

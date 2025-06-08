@@ -2,7 +2,7 @@ function PerrosSection({ addToCart }) {
     const [products, setProducts] = useState([]);
     
     useEffect(() => {
-        fetch('../data/perros.json')
+        fetch('./data/perros.json')
             .then(response => response.json())
             .then(data => setProducts(data))
             .catch(error => console.error('Error loading products:', error));

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 5,
+        "name": "Alimento para perros adultos",
+        "description": "Nutrición completa con carne real como primer ingrediente.",
+        "price": 22.99,
+        "image": "images/dog1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Correa resistente",
+        "description": "Correa de nylon reforzado de 2 metros de largo.",
+        "price": 14.99,
+        "image": "images/dog2.webp"
+    },
+    {
+        "id": 7,
+        "name": "Juguete de goma duradero",
+        "description": "Ideal para perros que muerden fuerte, resistente a roturas.",
+        "price": 9.99,
+        "image": "images/dog3.webp"
+    },
+    {
+        "id": 8,
+        "name": "Cama ortopédica",
+        "description": "Cama suave con soporte para articulaciones.",
+        "price": 49.99,
+        "image": "images/dog4.webp"
+    },
+    {
+        "id": 21,
+        "name": "Arnés ajustable",
+        "description": "Ergonómico y cómodo para paseos diarios.",
+        "price": 19.99,
+        "image": "images/dog5.png"
+    },
+    {
+        "id": 22,
+        "name": "Shampoo hipoalergénico",
+        "description": "Para pieles sensibles, con ingredientes naturales.",
+        "price": 12.99,
+        "image": "images/dog6.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Hueso dental",
+        "description": "Reduce el sarro y mejora la salud bucal.",
+        "price": 7.99,
+        "image": "images/dog7.png"
+    },
+    {
+        "id": 24,
+        "name": "Chaleco reflectante",
+        "description": "Para mayor visibilidad en paseos nocturnos.",
+        "price": 24.99,
+        "image": "images/dog8.webp"
+    }
+]

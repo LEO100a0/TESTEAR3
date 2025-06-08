@@ -1,0 +1,58 @@
+[
+    {
+        "id": 9,
+        "name": "Alimento para conejos",
+        "description": "Mezcla balanceada de heno, vegetales y granos.",
+        "price": 12.99,
+        "image": "images/con1.webp"
+    },
+    {
+        "id": 10,
+        "name": "Jaula espaciosa",
+        "description": "Amplia jaula con área de descanso y comedero incluido.",
+        "price": 59.99,
+        "image": "images/con2.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Juguete de madera",
+        "description": "Bloques de madera seguros para masticar.",
+        "price": 7.99,
+        "image": "images/con3.webp"
+    },
+    {
+        "id": 12,
+        "name": "Bebedero automático",
+        "description": "Dispensador de agua que mantiene el líquido fresco.",
+        "price": 15.99,
+        "image": "images/con4.webp"
+    },
+    {
+        "id": 25,
+        "name": "Túnel de juego",
+        "description": "Para esconderse y explorar, hecho de materiales seguros.",
+        "price": 18.99,
+        "image": "images/con5.webp"
+    },
+    {
+        "id": 26,
+        "name": "Heno premium",
+        "description": "Alimento esencial para la digestión de conejos.",
+        "price": 9.99,
+        "image": "images/con6.webp"
+    },
+    {
+        "id": 27,
+        "name": "Cepillo suave",
+        "description": "Para el cuidado del pelaje de tu conejo.",
+        "price": 6.99,
+        "image": "images/con7.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Rampas de ejercicio",
+        "description": "Set de 3 rampas para crear un área de juego.",
+        "price": 22.99,
+        "image": "images/con8.webp"
+    }
+]

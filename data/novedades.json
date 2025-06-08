@@ -1,0 +1,58 @@
+[
+    {
+        "id": 101,
+        "name": "Nuevo alimento premium para gatos",
+        "description": "Formulado con ingredientes naturales para una nutrición completa.",
+        "price": 24.99,
+        "image": "images/nov1.webp"
+    },
+    {
+        "id": 102,
+        "name": "Juguete interactivo para perros",
+        "description": "Mantén a tu perro entretenido y estimulado mentalmente.",
+        "price": 15.99,
+        "image": "images/nov2.webp"
+    },
+    {
+        "id": 103,
+        "name": "Jaula moderna para hámsters",
+        "description": "Diseño innovador con múltiples niveles y accesorios incluidos.",
+        "price": 39.99,
+        "image": "images/nov3.webp"
+    },
+    {
+        "id": 104,
+        "name": "Cama térmica para mascotas",
+        "description": "Mantiene el calor ideal para mascotas pequeñas en invierno.",
+        "price": 29.99,
+        "image": "images/nov4.jpg"
+    },
+    {
+        "id": 105,
+        "name": "Comedero automático inteligente",
+        "description": "Programa horarios de alimentación para tu mascota.",
+        "price": 59.99,
+        "image": "images/nov5.webp"
+    },
+    {
+        "id": 106,
+        "name": "Kit de aseo completo",
+        "description": "Incluye cepillo, peine, cortauñas y shampoo especial.",
+        "price": 34.99,
+        "image": "images/nov6.jpg"
+    },
+    {
+        "id": 107,
+        "name": "Collar LED para mascotas",
+        "description": "Collar luminoso para mayor visibilidad en la oscuridad.",
+        "price": 12.99,
+        "image": "images/nov7.webp"
+    },
+    {
+        "id": 108,
+        "name": "Set de juguetes acuáticos",
+        "description": "Perfecto para perros que aman el agua y la playa.",
+        "price": 18.99,
+        "image": "images/nov8.jpg"
+    }
+]

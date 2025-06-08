@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Alimento para gatos adultos",
+        "description": "Alimento balanceado con proteína de alta calidad.",
+        "price": 18.99,
+        "image": "images/cat1.webp"
+    },
+    {
+        "id": 2,
+        "name": "Rascador de 3 niveles",
+        "description": "Rascador con plataformas para descanso y juego.",
+        "price": 45.99,
+        "image": "images/cat2.webp"
+    },
+    {
+        "id": 3,
+        "name": "Juguete con plumas",
+        "description": "Varita con plumas para estimular el instinto de caza.",
+        "price": 8.99,
+        "image": "images/cat3.webp"
+    },
+    {
+        "id": 4,
+        "name": "Arena aglomerante",
+        "description": "Arena perfumada que facilita la limpieza.",
+        "price": 12.99,
+        "image": "images/cat4.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Transportadora para gatos",
+        "description": "Cómoda y segura para viajes o visitas al veterinario.",
+        "price": 32.99,
+        "image": "images/cat5.webp"
+    },
+    {
+        "id": 18,
+        "name": "Fuente de agua",
+        "description": "Mantiene el agua fresca y en movimiento para mayor hidratación.",
+        "price": 28.99,
+        "image": "images/cat6.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Cepillo deslanador",
+        "description": "Elimina el pelo suelto y reduce las bolas de pelo.",
+        "price": 9.99,
+        "image": "images/cat7.webp"
+    },
+    {
+        "id": 20,
+        "name": "Set de juguetes variados",
+        "description": "Incluye 5 diferentes juguetes para estimulación.",
+        "price": 14.99,
+        "image": "images/cat8.webp"
+    }
+]
